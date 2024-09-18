@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "cypress": "cypress open"
+
+  
+  },
+  "devDependencies": {
+    "cypress": "^13.14.0"
+  }
+}

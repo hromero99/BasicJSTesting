@@ -9,7 +9,9 @@ Si no hay números en la cadena, debe retornar 0.
 - cadena con 1 numero
 - cadena con numeros y letras
 */
-const  {sumNumbersInString} = require("./script")
+const  {sumNumbersInString} = require("./number_string")
+
+
 
 describe("sumNumbersInString Module", () => {
 
